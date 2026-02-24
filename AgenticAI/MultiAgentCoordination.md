@@ -215,7 +215,7 @@ Resolution:
 
 ---
 
-## 🎯 60-Second Interview Answer
+## 🎯 Interview Answer
 
 > Agents coordinate through structured communication, defined roles, shared memory, and often a centralized orchestrator that manages task execution. Coordination strategies may be hierarchical, centralized, or decentralized depending on system complexity. Multi-agent conflicts are resolved using priority rules, validation agents, voting mechanisms, state versioning, or human-in-the-loop escalation. Proper architecture design with clear role boundaries is the best way to prevent conflicts.
 
