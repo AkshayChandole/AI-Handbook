@@ -10,6 +10,7 @@
   - [What Factors Affect an LLM’s Response?](https://github.com/AkshayChandole/AI-Handbook/blob/main/LLMGenAIBasics/FactorsAffectingLLMResponse.md#What-Factors-Affect-an-LLMs-Response)
   - [What is hallucination?](https://github.com/AkshayChandole/AI-Handbook/blob/main/LLMGenAIBasics/Hallucination.md#What-is-hallucination)
   - [What is RAG?](https://github.com/AkshayChandole/AI-Handbook/blob/main/LLMGenAIBasics/RAG.md#what-is-rag)
+  - [What are guardrails?](https://github.com/AkshayChandole/AI-Handbook/blob/main/LLMGenAIBasics/GuardRails.md#What-are-guardrails)
 
 
 ## [Agentic AI](#agentic-ai)
@@ -28,5 +29,8 @@
   - [What is MCP?](https://github.com/AkshayChandole/AI-Handbook/blob/main/ModelContextProtocol/mcp.md#What-is-MCP)
   - [How do you design an MCP-based system?](https://github.com/AkshayChandole/AI-Handbook/blob/main/ModelContextProtocol/HowToDesignMcpBasedSystem.md#How-do-you-design-an-MCP-based-system)
 
-
+## [Production & Architecture](#production-and-architecture)
+  - [How do you validate tool responses?](https://github.com/AkshayChandole/AI-Handbook/blob/main/ProductionAndArchitecture/ValidationOfToolResponses.md#How-do-you-validate-tool-responses)
+  - [How do you prevent prompt injection attacks?](https://github.com/AkshayChandole/AI-Handbook/blob/main/ProductionAndArchitecture/PromptInjectionAttacks.md#How-do-you-prevent-prompt-injection-attacks)
+  - [How do you manage session memory?](https://github.com/AkshayChandole/AI-Handbook/blob/main/ProductionAndArchitecture/ManageSessionMemory.md#How-do-you-manage-session-memory)
 
