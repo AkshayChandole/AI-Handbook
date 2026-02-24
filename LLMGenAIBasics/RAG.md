@@ -1,5 +1,5 @@
 
-# [What is RAG?](#what-is-rag?)
+# [What is RAG?](#what-is-rag)
 
 ## ✅ What is RAG (Retrieval-Augmented Generation)?
 
