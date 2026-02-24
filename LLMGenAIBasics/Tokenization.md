@@ -1,4 +1,4 @@
-# [What is tokenization?](#What-is-tokenization?)
+# [What is tokenization?](#What-is-tokenization)
 
 ## ✅ What is Tokenization?
 
