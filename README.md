@@ -1,6 +1,6 @@
 # AI-Handbook
 
-## [LLL/GenAI Basics](#llmgenai-basics)
+## [LLM/GenAI Basics](#llmgenai-basics)
   - [What is a Large Language Model?](https://github.com/AkshayChandole/AI-Handbook/blob/main/LLMGenAIBasics/LargeLanguageModel.md#What-is-a-Large-Language-Model)
   - [How does LLM work internally?](https://github.com/AkshayChandole/AI-Handbook/blob/main/LLMGenAIBasics/InternalWorkingOfLLM.md#How-does-LLM-work-internally)
   - [What is tokenization?](https://github.com/AkshayChandole/AI-Handbook/blob/main/LLMGenAIBasics/Tokenization.md#What-is-tokenization)
