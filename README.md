@@ -33,4 +33,5 @@
   - [How do you validate tool responses?](https://github.com/AkshayChandole/AI-Handbook/blob/main/ProductionAndArchitecture/ValidationOfToolResponses.md#How-do-you-validate-tool-responses)
   - [How do you prevent prompt injection attacks?](https://github.com/AkshayChandole/AI-Handbook/blob/main/ProductionAndArchitecture/PromptInjectionAttacks.md#How-do-you-prevent-prompt-injection-attacks)
   - [How do you manage session memory?](https://github.com/AkshayChandole/AI-Handbook/blob/main/ProductionAndArchitecture/ManageSessionMemory.md#How-do-you-manage-session-memory)
+  - [How do you version prompts and tools?](https://github.com/AkshayChandole/AI-Handbook/blob/main/ProductionAndArchitecture/VersioningPromptsAndTools.md#How-do-you-version-prompts-and-tools)
 
