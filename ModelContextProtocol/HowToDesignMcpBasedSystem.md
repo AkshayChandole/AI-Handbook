@@ -1,5 +1,5 @@
 
-#[How Do You Design an MCP-Based System](#How-do-you-design-an-MCP-based-system)
+# [How Do You Design an MCP-Based System](#How-do-you-design-an-MCP-based-system)
 
 
 
